@@ -19,8 +19,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-### JavaScript Tutorial 
-1.  [JavaScript Tutorial: Building a Project](https://github.com/ethioclicks/javascripttutorial/blob/main/README.md) <br />
+### Sample Projects Developed by ethioclicks
+1.  [Javascript Project](https://github.com/ethioclicks/javascripttutorial/blob/main/README.md) <br />
    We are going to create a calculator web application which uses JavaScript to perform basic calculation. It will have the following functionalities <br />
    * Accept valid operand and operation.
    * It will calculate based on the given operand and operation
@@ -29,8 +29,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
    * Re load a calculation from the history
 
 
-2. []() 
-
+2. [JSP Project]() 
+  <br />
+ ##### Student Information Management System (SIMS)
+The main objective of this mini project is to design a dynamic and responsive web-site for a student information management system. This web application is full-fledged logic using new technologies in the market with maximum functionalities, efficiency, and optimal speed on a web.
+ 
 ```markdown
 Syntax highlighted code block
 
