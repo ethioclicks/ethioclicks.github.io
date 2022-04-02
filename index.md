@@ -21,7 +21,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### JavaScript Tutorial 
 1.  [JavaScript Tutorial: Building a Project](https://github.com/ethioclicks/javascripttutorial/blob/main/README.md) <br />
-   We are going to create a calculator web application which uses JavaScript to perform basic calculation. It will have the following functionalities
+   We are going to create a calculator web application which uses JavaScript to perform basic calculation. It will have the following functionalities <br />
+   * Accept valid operand and operation.
+   * It will calculate based on the given operand and operation
+   * It will keep track of the calculation history
+   * It Can remove calculation from the history
+   * Re load a calculation from the history
+
+
 2. []() 
 
 ```markdown
