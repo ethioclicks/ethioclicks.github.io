@@ -18,6 +18,42 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 10.  [How to create new maven project for spring tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/~WRL2196.tmp)
 
 
+* **Java:Java Tutorial** 
+    * [For Video Tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/JavaServlet.md)
+
+* **Servlet**: 
+
+   * [For Hands on Tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/JavaServlet.md)
+
+   * [For Video Tutorial](https://www.youtube.com/watch?v=FYe-keLCCG8&list=PLfUANuySIYNNkjgCHEFYbcND_ilAmf1it)
+
+
+* **JSP Tutorial**
+   * [For Hands on Tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/Introduction_to_JSP.md)
+
+   * [For Video Tutorial](https://www.youtube.com/watch?v=65VOvRu1v2g&list=PLfUANuySIYNMFFWkjqqd6toygvbVTfwyU)
+
+* **Hibernate:Hibernate Tutorial**
+    * [For Hands on Tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/Hibernate.md)
+
+   * [For Video Tutorial](https://www.youtube.com/watch?v=Jf0mAD3mbiw&list=PLfUANuySIYNO7dmckkcSOQY1PepmwdssE)
+
+* Spring:Introduction to spring 
+
+   * [For Hands on Tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/Introduction_To_Spring_Framework.md)
+
+   * [For Video Tutorial](https://www.youtube.com/watch?v=xdDc1F1nVhQ&list=PLfUANuySIYNP3rw-EuN_Onmmnx0V60wfW)
+
+* Spring:Spring Tutorial | Spring Framework 5: Beginner to Guru Tutorial
+
+   * [For Hands on Tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/Spring.md)
+
+   * [For Video Tutorial]()
+
+* Spring:Spring MVC Tutorial
+
+   * [For Hands on Tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/Spring-MVC.md)
+   * [For Project](https://github.com/ethioclicks/mini-delivery-app)
 
 ### Sample Projects Developed by ethioclicks
 1.  [Javascript Project](https://github.com/ethioclicks/javascripttutorial/blob/main/README.md) <br />
@@ -29,10 +65,39 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
    * Re load a calculation from the history
 
 
-2. [JSP Project](https://github.com/ethioclicks/JSPproject/blob/main/README.md) 
-  ##### Student Information Management System (SIMS)
-The main objective of this mini project is to design a dynamic and responsive web-site for a student information management system. This web application is full-fledged logic using new technologies in the market with maximum functionalities, efficiency, and optimal speed on a web.
+2. [Student Information Management System (SIMS) JSP Project](https://github.com/ethioclicks/JSPproject/blob/main/README.md)  <br />
+   Student Information Management System (SIMS)
+  The main objective of this mini project is to design a dynamic and responsive web-site for a student information management system. This web application is full-   fledged logic using new technologies in the market with maximum functionalities, efficiency, and optimal speed on a web.
  
+3. [Mini Super Market Management System(Java Servlet)](https://github.com/ethioclicks/JavaServletSampleProject/blob/main/README.md) <br /> 
+   sample application developed using Java Servlet. It also include a documentation that contains step by step guide how you can re create the project.
+ 
+4. [Student Information Management System using JSP, Servlet, and Hibernate](https://github.com/ethioclicks/JSPwithHibernate/blob/main/README.md) <br />
+  SIMS developed using JSP, Servlet, and Hibernat this mini project goal is to create a dynamic and responsive website for a student information management system (SIMS).
+5. [Mini_ Market JSP Web Application](https://github.com/ethioclicks/Mimi_Market_JSP_App/blob/main/README.md) <br />
+   Shopping management system web app that allow us to add new Items, show list of items, when one selected from the list it display the detail and can be edited. Using JSP, Servlet and JDBC for DB.
+
+6. [Siraflega App](https://github.com/ethioclicks/siraflega_app/blob/main/README.md) <br />
+
+   Java Spring Job Search Portal web app project developed
+7. [Flutter Map Project](https://github.com/ethioclicks/map/blob/main/README.md) <br />
+   This application utilizing Google Maps, Places Autocomplete, and Geolocator.
+  
+8. [React JS Mini Delivery Project](https://github.com/ethioclicks/delivery-mini-app/blob/main/README.md)
+9. [React JS Simple Resume Website](https://github.com/ethioclicks/ethio-cv/blob/main/README.md)
+10. [Java Spring Framework Mini Delivery Project](https://github.com/ethioclicks/mini-delivery-app/blob/main/README.md) <br />
+ This repository has a sample mini delivery app developed using spring framework to support spring framework tutorial.
+10. [AkebabiV1 Project](https://github.com/ethioclicks/AkebabiV1)
+ 
+ 
+ ### Other Documentations 
+ 1. [Documentation to make exe installer Setup program]() <br />
+   This is a Documentation to show how installer program is created for a java program, an installer can either install a new program on your computer or can update a  program currently on your hard drive. It's capable of holding all neccesary programs , files and resources in a single setup program and update or add files to your operating system upon installation. 
+ 
+ 
+### Ethioclicks Programming Videos Available on Youtube 
+Introduction to Docker Amharic Language 
+[![Introduction to Docker Amharic Language](https://img.youtube.com/vi/h79PyYSvsXM/maxresdefault.jpg)](https://www.youtube.com/watch?v=h79PyYSvsXM "Youtube: Introduction to Docker Amharic Language")
 ```markdown
 Syntax highlighted code block
 
