@@ -29,9 +29,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
    * Re load a calculation from the history
 
 
-2. [JSP Project]() 
-  <br />
- ##### Student Information Management System (SIMS)
+2. [JSP Project](https://github.com/ethioclicks/JSPproject/blob/main/README.md) 
+  ##### Student Information Management System (SIMS)
 The main objective of this mini project is to design a dynamic and responsive web-site for a student information management system. This web application is full-fledged logic using new technologies in the market with maximum functionalities, efficiency, and optimal speed on a web.
  
 ```markdown
