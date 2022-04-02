@@ -58,12 +58,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Sample Projects Developed by ethioclicks
 1.  [Javascript Project](https://github.com/ethioclicks/javascripttutorial/blob/main/README.md) <br />
    We are going to create a calculator web application which uses JavaScript to perform basic calculation. It will have the following functionalities <br />
-   * Accept valid operand and operation.
+  ``` * Accept valid operand and operation.
    * It will calculate based on the given operand and operation
    * It will keep track of the calculation history
    * It Can remove calculation from the history
    * Re load a calculation from the history
-
+```
 
 2. [Student Information Management System (SIMS) JSP Project](https://github.com/ethioclicks/JSPproject/blob/main/README.md)  <br />
    Student Information Management System (SIMS)
