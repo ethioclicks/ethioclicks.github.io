@@ -91,11 +91,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  
  
  ### Other Documentations 
- 1. [Documentation to make exe installer Setup program]() <br />
+ 1. [Documentation to make exe installer Setup program](https://github.com/ethioclicks/setup/blob/main/README.md) <br />
    This is a Documentation to show how installer program is created for a java program, an installer can either install a new program on your computer or can update a  program currently on your hard drive. It's capable of holding all neccesary programs , files and resources in a single setup program and update or add files to your operating system upon installation. 
  
  
-### Ethioclicks Programming Videos Available on Youtube 
+### Ethioclicks Programming Video's Available on Youtube 
 Introduction to Docker Amharic Language 
 [![Introduction to Docker Amharic Language](https://img.youtube.com/vi/h79PyYSvsXM/maxresdefault.jpg)](https://www.youtube.com/watch?v=h79PyYSvsXM "Youtube: Introduction to Docker Amharic Language")
 ```markdown
