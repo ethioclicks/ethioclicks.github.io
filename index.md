@@ -20,8 +20,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ### JavaScript Tutorial 
-1.  [JavaScript Tutorial: Building a Project](https://github.com/ethioclicks/javascripttutorial/blob/main/README.md)
-   We are going to create a calculator web application which uses JavaScript to perform basic calculation. It wilhave the following functionalities
+1.  [JavaScript Tutorial: Building a Project](https://github.com/ethioclicks/javascripttutorial/blob/main/README.md) <br />
+   We are going to create a calculator web application which uses JavaScript to perform basic calculation. It will have the following functionalities
 2. []() 
 
 ```markdown
