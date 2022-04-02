@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 1.  [Java Hibernate : How to connect with DB](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/Hibernate.md)
 2.  [How to install Spring Tool Suit](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/Introduction_To_Spring_Framework.md)
 3.  [Introduction To JSP](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/Introduction_to_JSP.md)
-4.  [Java Servelet Programming](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/JavaServlet.md)
+4.  [Java Servlet Programming](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/JavaServlet.md)
 5.  [Java Backend Development Tutorials](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/README.md)
 6.  [Spring MVC](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/Spring-MVC.md)
 7.  [Basic Spring Application with Maven](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/Spring.md)
@@ -17,6 +17,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 9.  [Git tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/git-tutorial.md)
 10.  [How to create new maven project for spring tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/~WRL2196.tmp)
 
+
+
+### JavaScript Tutorial 
+1.  [JavaScript Tutorial: Building a Project](https://github.com/ethioclicks/javascripttutorial/blob/main/README.md)
+   We are going to create a calculator web application which uses JavaScript to perform basic calculation. It wilhave the following functionalities
+2. []() 
 
 ```markdown
 Syntax highlighted code block
