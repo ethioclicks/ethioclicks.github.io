@@ -95,9 +95,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
    This is a Documentation to show how installer program is created for a java program.
  
  
-### Ethioclicks Programming Video's Available on Youtube
-Introduction to Docker Amharic Language 
-[![Introduction to Docker Amharic Language](https://img.youtube.com/vi/h79PyYSvsXM/maxresdefault.jpg)](https://www.youtube.com/watch?v=h79PyYSvsXM "Youtube: Introduction to Docker Amharic Language")
 ```markdown
 Syntax highlighted code block
 
