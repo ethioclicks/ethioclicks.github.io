@@ -90,7 +90,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 10. [AkebabiV1 Project](https://github.com/ethioclicks/AkebabiV1)
  
  
- ### Other Documentations 
+ ### Other 
  1. [Documentation to make exe installer Setup program](https://github.com/ethioclicks/setup/blob/main/README.md) <br />
    This is a Documentation to show how installer program is created for a java program.
  
