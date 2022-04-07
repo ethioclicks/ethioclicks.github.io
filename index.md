@@ -1,8 +1,6 @@
 ## Welcome to ethioclicks github page
 
-You can use the [editor on GitHub](https://github.com/ethioclicks/ethioclicks.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is Ethio Clicks official GitHub page. On this page you will get different education material for learning Java Web Application development, UI development with React, Angular or static UI development using HTML, CSS, Javascript and bootstrap. You also get list of sample projects deve
 
 ### Java Web Development Tutorials
 
