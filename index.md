@@ -1,6 +1,6 @@
 ## Welcome to ethioclicks github page
 
-This is Ethio Clicks official GitHub page. On this page you will get different education material for learning Java Web Application development, UI development with React, Angular or static UI development using HTML, CSS, Javascript and bootstrap. You also get list of sample projects deve
+This is Ethio Clicks official GitHub page. On this page you will get different education material for learning Java Web Application development, UI development with React, Angular or static UI development using HTML, CSS, Javascript and bootstrap. You also get list of sample projects developed by Ethio Clicks candidates.
 
 ### Java Web Development Tutorials
 
@@ -93,12 +93,6 @@ This is Ethio Clicks official GitHub page. On this page you will get different e
    This is a Documentation to show how installer program is created for a java program.
  
  
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -113,10 +107,4 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ethioclicks/ethioclicks.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
