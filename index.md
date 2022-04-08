@@ -1,4 +1,4 @@
-## Welcome to ethioclicks github page
+## Welcome to Ethio Clicks github page
 
 This is Ethio Clicks official GitHub page. On this page you will get different education material for learning Java Web Application development, UI development with React, Angular or static UI development using HTML, CSS, Javascript and bootstrap. You also get list of sample projects developed by Ethio Clicks candidates.
 
@@ -53,7 +53,7 @@ This is Ethio Clicks official GitHub page. On this page you will get different e
    * [For Hands on Tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/Spring-MVC.md)
    * [For Project](https://github.com/ethioclicks/mini-delivery-app)
 
-### Sample Projects Developed by ethioclicks
+### Sample Projects Developed by Ethio Clicks
 1.  [Javascript Project](https://github.com/ethioclicks/javascripttutorial/blob/main/README.md) <br />
    We are going to create a calculator web application which uses JavaScript to perform basic calculation. It will have the following functionalities <br />
   ``` * Accept valid operand and operation.
