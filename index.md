@@ -85,7 +85,7 @@ This is Ethio Clicks official GitHub page. On this page you will get different e
 9. [React JS Simple Resume Website](https://github.com/ethioclicks/ethio-cv/blob/main/README.md)
 10. [Java Spring Framework Mini Delivery Project](https://github.com/ethioclicks/mini-delivery-app/blob/main/README.md) <br />
  This repository has a sample mini delivery app developed using spring framework to support spring framework tutorial.
-10. [AkebabiV1 Project](https://github.com/ethioclicks/AkebabiV1)
+
  
  
  ### Other 
