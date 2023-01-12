@@ -53,6 +53,13 @@ This is Ethio Clicks official GitHub page. On this page you will get different e
    * [For Hands on Tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/Spring-MVC.md)
    * [For Project](https://github.com/ethioclicks/mini-delivery-app)
 
+### Digital Marketing Tutorial
+   * [Introduction To Digital Marketing](https://github.com/ethioclicks/Marketing-Tutorials/blob/master/Introduction%20To%20DigitalMarketing.md)
+   * [Search Engine Optimization](https://github.com/ethioclicks/Marketing-Tutorials/blob/master/Search%20Engine%20optimization.md)
+   * [Google Ads](https://github.com/ethioclicks/Marketing-Tutorials/blob/master/Google%20Ads.md)
+   * [Facebook Marketing](https://github.com/ethioclicks/Marketing-Tutorials/blob/master/FaceBook%20Marketing.md)
+
+
 ### Sample Projects Developed by Ethio Clicks
 1.  [Javascript Project](https://github.com/ethioclicks/javascripttutorial/blob/main/README.md) <br />
    We are going to create a calculator web application which uses JavaScript to perform basic calculation. It will have the following functionalities <br />
