@@ -14,6 +14,7 @@ This is Ethio Clicks official GitHub page. On this page you will get different e
 8.  [The Twilio Sandbox for WhatsApp](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/TwilioDoc.md)
 9.  [Git tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/git-tutorial.md)
 10.  [How to create new maven project for spring tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/~WRL2196.tmp)
+11.  [What you see is what you get(WYSIWYG) example](https://github.com/ethioclicks/Marketing-Tutorials/blob/master/TinyMCE%20Angular-14%20Integration%20.md)
 
 
 * **Java:Java Tutorial** 
