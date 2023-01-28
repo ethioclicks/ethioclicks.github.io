@@ -11,10 +11,6 @@ This is Ethio Clicks official GitHub page. On this page you will get different e
 5.  [Java Backend Development Tutorials](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/README.md)
 6.  [Spring MVC](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/Spring-MVC.md)
 7.  [Basic Spring Application with Maven](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/Spring.md)
-8.  [The Twilio Sandbox for WhatsApp](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/TwilioDoc.md)
-9.  [Git tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/git-tutorial.md)
-10.  [How to create new maven project for spring tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/~WRL2196.tmp)
-11.  [What you see is what you get(WYSIWYG) example](https://github.com/ethioclicks/Marketing-Tutorials/blob/master/TinyMCE%20Angular-14%20Integration%20.md)
 
 
 * **Java:Java Tutorial** 
@@ -59,6 +55,12 @@ This is Ethio Clicks official GitHub page. On this page you will get different e
    * [Search Engine Optimization](https://github.com/ethioclicks/Marketing-Tutorials/blob/master/Search%20Engine%20optimization.md)
    * [Google Ads](https://github.com/ethioclicks/Marketing-Tutorials/blob/master/Google%20Ads.md)
    * [Facebook Marketing](https://github.com/ethioclicks/Marketing-Tutorials/blob/master/FaceBook%20Marketing.md)
+ 
+### Other Tutorials
+1.  [The Twilio Sandbox for WhatsApp](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/TwilioDoc.md)
+2.  [Git tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/git-tutorial.md)
+3.  [How to create new maven project for spring tutorial](https://github.com/ethioclicks/Java-Web-Development-Tutorials/blob/main/~WRL2196.tmp)
+4.  [What you see is what you get(WYSIWYG) example](https://github.com/ethioclicks/Marketing-Tutorials/blob/master/TinyMCE%20Angular-14%20Integration%20.md)
 
 
 ### Sample Projects Developed by Ethio Clicks
@@ -70,6 +72,7 @@ This is Ethio Clicks official GitHub page. On this page you will get different e
    * It Can remove calculation from the history
    * Re load a calculation from the history
 ```
+
 
 2. [Student Information Management System (SIMS) JSP Project](https://github.com/ethioclicks/JSPproject/blob/main/README.md)  <br />
    Student Information Management System (SIMS)
